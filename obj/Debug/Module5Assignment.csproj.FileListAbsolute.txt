@@ -1,0 +1,5 @@
+C:\Users\marc\RiderProjects\Module5Assignment\Module5Assignment\obj\Debug\Module5Assignment.csprojResolveAssemblyReference.cache
+C:\Users\marc\RiderProjects\Module5Assignment\Module5Assignment\bin\Debug\Module5Assignment.exe
+C:\Users\marc\RiderProjects\Module5Assignment\Module5Assignment\bin\Debug\Module5Assignment.pdb
+C:\Users\marc\RiderProjects\Module5Assignment\Module5Assignment\obj\Debug\Module5Assignment.exe
+C:\Users\marc\RiderProjects\Module5Assignment\Module5Assignment\obj\Debug\Module5Assignment.pdb
